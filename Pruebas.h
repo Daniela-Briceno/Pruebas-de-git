@@ -1,6 +1,4 @@
-typedef struct Pruebas
-{
-    /* data */
-} EnteroLargo;
 
-
+ EnteroLargo *creaEnteroLargo(){
+     
+ }
