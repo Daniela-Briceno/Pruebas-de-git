@@ -1,3 +1,1 @@
-#include MAX 100
-
-agregando texto...
+... continuacion
